@@ -1,7 +1,7 @@
 # Hi there, I'm Harshit Mangal 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,23&height=180&section=header&text=Harshit%20Mangal&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Systems%20%26%20Full-Stack%20Software%20Engineer%20%7C%20LeetCode%20Knight&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;LeetCode+Knight+(Rating+1931)+%7C+1%2C440%2B+Solved;AIR+165+Amazon+ML+Challenge;Winner+%E2%80%94+AWS+%26+WeMakeDevs+Hackathon" alt="Typing SVG" />
 </div>
 
 <div align="center">
