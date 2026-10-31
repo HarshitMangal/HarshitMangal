@@ -9,6 +9,9 @@
   [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-harshitmangal.github.io-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://harshitmangal.github.io/portfolio/)
   [![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight%20%7C%201931-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshit_mangal/)
   [![GFG Rank 1](https://img.shields.io/badge/GFG-College%20Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshitmangal)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-5%20Stars%20%7C%20Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mangalharsh54)
+  [![InterviewBit](https://img.shields.io/badge/InterviewBit-Profile-0077B5?style=for-the-badge&logo=coderwall&logoColor=white)](https://www.interviewbit.com/profile/harshit-mangal/)
+  [![NeetCode](https://img.shields.io/badge/NeetCode-DSA%20Roadmap-10B981?style=for-the-badge&logo=codeforces&logoColor=white)](https://neetcode.io/user/Harshit_mangal)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-mangal)
   [![Resume PDF](https://img.shields.io/badge/Resume-Latest%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://harshitmangal.github.io/portfolio/Harshit_Mangal_Resume_Latest.pdf)
   [![Profile Views](https://komarev.com/ghpvc/?username=HarshitMangal&color=00e5ff&style=for-the-badge&label=VISITORS)](https://github.com/HarshitMangal)
@@ -158,6 +161,9 @@ Status      : Open to Software Engineering Internships & Full-Time Roles (2025 -
   <a href="https://linkedin.com/in/harshit-mangal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Harshit_mangal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://auth.geeksforgeeks.org/user/harshitmangal"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/mangalharsh54"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.interviewbit.com/profile/harshit-mangal/"><img src="https://img.shields.io/badge/InterviewBit-0077B5?style=for-the-badge&logo=coderwall&logoColor=white" /></a>
+  <a href="https://neetcode.io/user/Harshit_mangal"><img src="https://img.shields.io/badge/NeetCode-10B981?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="mailto:mangalharsh54@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
