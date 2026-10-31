@@ -1,16 +1,17 @@
 # Hi there, I'm Harshit Mangal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Systems+%26+Full-Stack+Software+Engineer;LeetCode+Knight+(Rating+1931)+%7C+1%2C440%2B+Solved;AIR+165+Amazon+ML+Challenge;Winner+%E2%80%94+AWS+%26+WeMakeDevs+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Systems+%26+Full-Stack+Software+Engineer;LeetCode+Knight+(Rating+1931)+%7C+1%2C440%2B+DSA+Solved;AIR+165+Nationwide+%E2%80%94+Amazon+ML+Challenge;Winner+%E2%80%94+AWS+%26+WeMakeDevs+Environmental+Hacks;College+Rank+%231+%40+MBM+University+Leaderboard" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
-  [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-harshitmangal.github.io-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://harshitmangal.github.io/portfolio/)
+  [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-harshitmangal.github.io-00E5FF?style=for-the-badge&logo=google-chrome&logoColor=black)](https://harshitmangal.github.io/portfolio/)
   [![LeetCode Knight](https://img.shields.io/badge/LeetCode-Knight%20%7C%201931-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshit_mangal/)
   [![GFG Rank 1](https://img.shields.io/badge/GFG-College%20Rank%20%231-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/harshitmangal)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit%20Mangal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-mangal)
-  [![Resume](https://img.shields.io/badge/Resume-Latest%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://harshitmangal.github.io/portfolio/Harshit_Mangal_Resume_Latest.pdf)
+  [![Resume PDF](https://img.shields.io/badge/Resume-Latest%20PDF-E11D48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://harshitmangal.github.io/portfolio/Harshit_Mangal_Resume_Latest.pdf)
+  [![Profile Views](https://komarev.com/ghpvc/?username=HarshitMangal&color=00e5ff&style=for-the-badge&label=VISITORS)](https://github.com/HarshitMangal)
 
 </div>
 
@@ -18,78 +19,110 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Undergraduate:** B.Tech in Information Technology @ **MBM University, Jodhpur** (2023 – 2027)
-- ♞ **Competitive Programming:** **LeetCode Knight** (Peak Rating **1950+**, Top **3.8%** globally) with **1,440+** DSA problems solved across platforms.
-- 🏆 **Hackathons & Challenges:** Winner at **Environmental Hacks** (WeMakeDevs & AWS) | Secured **AIR 165** in **Amazon ML Challenge**.
-- 🛠️ **Engineering Focus:** High-Performance Distributed Systems, MERN Full-Stack, Offline RAG / Generative AI, C++ Concurrency, and Redis in-memory pipelines.
-- 💼 **Experience:** Former Frontend Web Development Intern @ **CodTech IT Solutions Pvt. Ltd.**
-
----
-
-### 🏆 Milestones & Competitive Standing
-
-```text
- ♞ LeetCode Knight     : Rating 1931 (Peak 1950+) | Top 3.8% Globally | 1,440+ Solved
- 🥇 GeeksforGeeks      : Rank #1 Across MBM University Leaderboard (1,100+ Solved)
- 🏅 Amazon ML Challenge : All India Rank 165 Nationwide
- 🏆 WeMakeDevs & AWS   : 1st Place Winner — Environmental Hacks (Cloud Architecture)
+```yaml
+Name        : Harshit Mangal
+Education   : B.Tech in Information Technology @ MBM University, Jodhpur (2023 - 2027)
+Role        : Systems & Full-Stack Software Engineer
+Algorithmic : LeetCode Knight (1931 Peak) | Top 3.8% Globally | 1,440+ DSA Solved
+Hackathons  : Winner — AWS & WeMakeDevs Environmental Hacks | AIR 165 Amazon ML
+Interests   : Distributed Engines, High-Concurrency Web, Local LLMs/RAG, Cache Architecture
+Status      : Open to Software Engineering Internships & Full-Time Roles (2025 - 2026)
 ```
 
 ---
 
-### 🛠️ Languages & Technologies
+### ♞ LeetCode & Competitive Programming Highlights
+
+<div align="center">
+  <a href="https://leetcode.com/u/Harshit_mangal/">
+    <img src="https://leetcard.jacoblin.cool/Harshit_mangal?theme=unicorn&font=Karma&ext=contest" alt="Harshit's LeetCode Card" width="90%" style="border-radius: 12px; max-width: 650px;" />
+  </a>
+</div>
+
+<br>
 
 <div align="center">
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `C++` `Python` `C` `Java` `JavaScript (ES6+)` `SQL` |
-| **Frontend** | `React` `Redux Toolkit` `HTML5` `CSS3` `Tailwind CSS` `Streamlit` |
-| **Backend & APIs** | `Node.js` `Express.js` `RESTful APIs` `Socket.io` `JWT` |
-| **Databases & Cache** | `MongoDB` `MySQL` `SQLite` `Redis` |
-| **AI / ML & Tools** | `Ollama (LLaMA 3.2)` `FAISS` `SentenceTransformers` `PyMuPDF` |
-| **Developer Tools** | `Git` `GitHub` `Docker (Basics)` `Postman` `Linux (Bash)` |
+| Platform | Achievement | Global / College Standing |
+| :--- | :--- | :--- |
+| **LeetCode** | ♞ **Knight Badge** (Contest Rating 1905–1931) | **Top 3.8% Globally** • 1,440+ Solved (800+ Med, 110 Hard) |
+| **GeeksforGeeks** | 🥇 **College Rank #1** | **Rank #1** across MBM University Leaderboard (1,100+ Solved) |
+| **Amazon ML Challenge** | 🏅 **All India Rank 165** | Competing against nationwide engineering university teams |
+| **WeMakeDevs & AWS** | 🏆 **Hackathon Winner** | 1st Place for Cloud-Native Environmental Monitoring Engine |
 
 </div>
 
 ---
 
-### 🔥 Featured Projects
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,java,js,react,nodejs,express,mongodb,redis,tailwind,html,css,git,github,docker,postman,linux" alt="Tech Stack Icons" />
+</div>
+
+<br>
+
+- **Core Languages:** `C++ (Modern / STL)`, `Python`, `C`, `Java`, `JavaScript (ES6+)`, `SQL`
+- **Frontend & UI:** `React.js`, `Redux Toolkit`, `Tailwind CSS`, `HTML5`, `CSS3`, `Streamlit`
+- **Backend & APIs:** `Node.js`, `Express.js`, `RESTful APIs`, `Socket.io (WebSockets)`, `JWT Auth`
+- **Databases & Cache:** `MongoDB`, `MySQL`, `SQLite`, `Redis (In-Memory Pub/Sub & Caching)`
+- **AI & Document Intelligence:** `Ollama (LLaMA 3.2)`, `FAISS Vector Store`, `SentenceTransformers`, `PyMuPDF`
+- **DevOps & Infrastructure:** `Git`, `GitHub`, `Docker (Basics)`, `Postman`, `Linux / Bash`, `Render`, `Vercel`
+
+---
+
+### 🔥 Featured Projects & Live Demos
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🛒 ShopSphere</h3>
       <p align="center"><strong>AI-Driven B2C E-Commerce Platform</strong></p>
-      <p>Full-stack MERN e-commerce application featuring Google Gemini AI chatbot for real-time shopping guidance, Socket.io customer support, sub-2ms Redis caching, and Razorpay checkout.</p>
+      <ul>
+        <li>Full-stack MERN marketplace with Google Gemini AI chatbot for product query assistance.</li>
+        <li>Real-time room-based customer support chat via <code>Socket.io</code> and active threads.</li>
+        <li>Sub-2ms response times with resilient <code>Redis</code> in-memory cache and <code>Razorpay</code> checkout.</li>
+      </ul>
       <p align="center">
         <a href="https://flipcart-clone-mu.vercel.app"><b>[Live Demo ↗]</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/HarshitMangal/Flipcart-Clone"><b>[GitHub Repo ↗]</b></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🤖 AI Document Assistant</h3>
       <p align="center"><strong>100% Offline RAG System</strong></p>
-      <p>Air-gapped document Q&A assistant built with Ollama (LLaMA 3.2), FAISS vector store, and PyMuPDF. Completely private local inference with zero reliance on external APIs.</p>
+      <ul>
+        <li>100% air-gapped, zero-API dependency document Q&A assistant for confidential files.</li>
+        <li>Vector search using <code>FAISS</code> and local embeddings from <code>SentenceTransformers</code>.</li>
+        <li>Local LLM inference via <code>Ollama (LLaMA 3.2)</code> with <code>PyMuPDF</code> document parsing.</li>
+      </ul>
       <p align="center">
         <a href="https://github.com/HarshitMangal/AI-Document-Chatbot"><b>[GitHub Repo ↗]</b></a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🏡 Wanderlust</h3>
       <p align="center"><strong>Geospatial Rental Booking SaaS</strong></p>
-      <p>Airbnb-style marketplace with user authentication, interactive Mapbox GL JS map search, review system, and Cloudinary media optimization pipeline.</p>
+      <ul>
+        <li>Full-stack Airbnb-style accommodation platform with JWT auth and review system.</li>
+        <li>Interactive geospatial property discovery using <code>Mapbox GL JS</code> & Geocoding API.</li>
+        <li>Automated media optimization pipeline using <code>Cloudinary</code> with 60% payload reduction.</li>
+      </ul>
       <p align="center">
         <a href="https://major-project-wht3.onrender.com"><b>[Live Demo ↗]</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/HarshitMangal/major_project"><b>[GitHub Repo ↗]</b></a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🗺️ SmartRoute</h3>
       <p align="center"><strong>Intelligent Multi-Stop Routing Engine</strong></p>
-      <p>High-performance route optimization engine with turn-by-turn navigation, elevation profiles, interactive Leaflet maps, and real-time telematics simulator.</p>
+      <ul>
+        <li>Algorithmic route optimization engine powered by OpenRouteService and Graph traversal.</li>
+        <li>Turn-by-turn interactive map navigation, elevation profiling, and GPX track export.</li>
+        <li>Live telematics speed simulator built on <code>Leaflet</code> and responsive Tailwind UI.</li>
+      </ul>
       <p align="center">
         <a href="https://harshitmangal.github.io/smartroute/"><b>[Live Demo ↗]</b></a> &nbsp;|&nbsp;
         <a href="https://github.com/HarshitMangal/smartroute"><b>[GitHub Repo ↗]</b></a>
@@ -100,20 +133,24 @@
 
 ---
 
-### 📊 GitHub & Coding Activity
+### 📊 GitHub Activity & Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitMangal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Harshit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMangal&theme=tokyonight&hide_border=true" width="48%" alt="Harshit's GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMangal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=HarshitMangal&theme=tokyonight&hide_border=true&border_radius=10" width="49%" alt="Harshit's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarshitMangal&theme=tokyonight" width="49%" alt="Harshit's Profile Summary" />
 </div>
 
 ---
 
-### 📬 Let's Connect!
+### 💡 Daily Dev Inspiration
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" alt="Dev Quote" />
+</div>
+
+---
+
+### 📬 Connect With Me
 
 <div align="center">
 
@@ -127,5 +164,5 @@
 
 <br>
 <p align="center">
-  ⭐️ <i>From <a href="https://github.com/HarshitMangal">Harshit Mangal</a> — Open to Software Engineering Internships & Opportunities!</i>
+  ⚡ <i>"Consistency is the ultimate competitive advantage."</i> — <b>Harshit Mangal</b>
 </p>
