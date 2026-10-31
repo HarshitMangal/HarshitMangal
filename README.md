@@ -35,7 +35,7 @@ Status      : Open to Software Engineering Internships & Full-Time Roles (2025 -
 
 <div align="center">
   <a href="https://leetcode.com/u/Harshit_mangal/">
-    <img src="https://leetcard.jacoblin.cool/Harshit_mangal?theme=unicorn&font=Karma&ext=contest" alt="Harshit's LeetCode Card" width="90%" style="border-radius: 12px; max-width: 650px;" />
+    <img src="https://leetcard.jacoblin.cool/Harshit_mangal?theme=dark&ext=contest" alt="Harshit's LeetCode Card" width="90%" style="border-radius: 12px; max-width: 650px;" />
   </a>
 </div>
 
