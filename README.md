@@ -1,7 +1,7 @@
 # Hi there, I'm Harshit Mangal 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Systems+%26+Full-Stack+Software+Engineer;LeetCode+Knight+(Rating+1931)+%7C+1%2C440%2B+DSA+Solved;AIR+165+Nationwide+%E2%80%94+Amazon+ML+Challenge;Winner+%E2%80%94+AWS+%26+WeMakeDevs+Environmental+Hacks;College+Rank+%231+%40+MBM+University+Leaderboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=50&lines=Systems+%26+Full-Stack+Software+Engineer;LeetCode+Knight+(Rating+1931)+%7C+1%2C440%2B+DSA+Solved;AIR+165+Nationwide+%E2%80%94+Amazon+ML+Challenge;Winner+%E2%80%94+AWS+%26+WeMakeDevs+Environmental+Hacks;College+Rank+%231+%40+MBM+University+Leaderboard" alt="Typing SVG" />
 </div>
 
 <div align="center">
